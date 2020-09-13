@@ -2,9 +2,9 @@
 
 \
 \
-{\bf Platform:} Python
+**Platform:** Python
 \
-Library Used: numy, scipy, slycot, control, and matplotlib
+**Library Used:** numy, scipy, slycot, control, and matplotlib
 
 <br />
 <br />
