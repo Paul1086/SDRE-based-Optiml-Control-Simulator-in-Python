@@ -6,7 +6,9 @@ Platform: Python
 \
 Library Used: numy, scipy, slycot, control, and matplotlib
 \
+
 \
+
 \
 
 State Dependent Riccati Equation (SDRE) has become one of the most popular optimal control technique over the last few decade. This method, by allowing nonlinearities in the system states through state dependent coefficient (SDC) matrices and offering flexibility in designing these matrices, appeared to be a highly effective tool for the controller designing of strong nonlinear systems.
