@@ -1,18 +1,29 @@
 # SDRE Simulator in Python
 
-\
-\
-**Platform:** Python
-\
-**Library Used:** numy, scipy, slycot, control, and matplotlib
-
-<br />
-<br />
 
 
+## Programming Platform:
+* Python
+
+## Used Libraries:
+* NumPy 
+* SciPy 
+* Slycot 
+* Control 
+* Matplotlib
+
+## Files included:
+* Presentation Slide
+* Published Paper
+* Python Code
 
 
 
+- This is just a one slide presentation that represents the SDRE algorithmic steps. Please run this in animation mode for better understanding 
+- The attached IEEE paper named "Paper2_IEEE_NAPS_Kansas_US" presents one of the application of SDRE in wind energy. It contans the mathematical steps of the algorithm.  
+
+
+## Description:
 
 State Dependent Riccati Equation (SDRE) has become one of the most popular optimal control technique over the last few decade. This method, by allowing nonlinearities in the system states through state dependent coefficient (SDC) matrices and offering flexibility in designing these matrices, appeared to be a highly effective tool for the controller designing of strong nonlinear systems.
 
